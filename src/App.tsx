@@ -41,7 +41,7 @@ function App() {
           whileHover={{ scale: 1.1 }}
         >
           <img 
-            src="https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=300&q=80" 
+            src="https://d.uguu.se/JggefXDp.jpg" 
             alt="Firman Wahyudi" 
             className="w-full h-full object-cover"
           />
